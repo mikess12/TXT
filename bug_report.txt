@@ -1,1 +1,3 @@
-
+step_1  log in
+step_2  click menu
+step_3  add new users
