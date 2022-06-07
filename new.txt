@@ -1,1 +1,5 @@
-1
+name Mikhail
+surname Filimonov
+age 42
+pets 0
+desired_salary 3000 usd
