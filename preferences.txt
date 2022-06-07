@@ -1,0 +1,5 @@
+fav_movie Titanik
+fav_serial Desparate housewives
+fav_food red fish
+fav_season summer
+country_to_visit Thailand
